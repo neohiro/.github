@@ -8,3 +8,5 @@ Community health files in this repository act as **account-wide defaults** for e
 - .github/PULL_REQUEST_TEMPLATE.md
 
 The real profile lives at [neohiro/neohiro](https://github.com/neohiro).
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com/neohiro/.github&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=github.com/neohiro/.github)
